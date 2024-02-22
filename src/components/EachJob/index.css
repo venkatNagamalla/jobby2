@@ -1,0 +1,19 @@
+.each-job-container {
+  background-color: #000000;
+  height: 100vh;
+}
+
+.each-job-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.each-job-failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
